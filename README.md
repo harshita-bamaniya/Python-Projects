@@ -1,23 +1,26 @@
 # Task Organizer
 
-## Description
-A Python application that organizes daily tasks into:
-- Completed Tasks
-- Incomplete Tasks
+A Python project that organizes tasks into completed and incomplete categories.
 
 ## Features
+
 - Add tasks
-- Mark tasks as completed
-- View incomplete tasks
-- Simple and beginner-friendly
+- Track completed tasks
+- Track incomplete tasks
+
+## Screenshot
+
+![Task Organizer Output](images/output.png)
 
 ## Technologies Used
+
 - Python
 
-## Installation
+## Run the Project
 
-git clone https://github.com/harshita-bamaniya/Python-Projects.git
-
-## Run
-
+```bash
 python main.py
+```
+
+
+
