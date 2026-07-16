@@ -1,9 +1,23 @@
-# Python-Projects
-<<<<<<< HEAD
-This is my first Git Respository
-Author - harshita-bamaniya
-=======
-This is my first Git Respository <br>
-I am gonna make a "Checklist"
+# Task Organizer
 
->>>>>>> 30078437d5f7781d9d96c8fa9fe0c797f81f2176
+## Description
+A Python application that organizes daily tasks into:
+- Completed Tasks
+- Incomplete Tasks
+
+## Features
+- Add tasks
+- Mark tasks as completed
+- View incomplete tasks
+- Simple and beginner-friendly
+
+## Technologies Used
+- Python
+
+## Installation
+
+git clone https://github.com/harshita-bamaniya/Python-Projects.git
+
+## Run
+
+python main.py
