@@ -16,7 +16,7 @@ A Python application that organizes daily tasks into:
 
 ## Installation
 
-git clone https://github.com/username/Task-Organizer.git
+git clone https://github.com/harshita-bamaniya/Python-Projects.git
 
 ## Run
 
