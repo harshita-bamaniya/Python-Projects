@@ -1,26 +1,23 @@
-# Task Organizer
+## Python Projects
 
-A Python project that organizes tasks into completed and incomplete categories.
+Welcome to my Python Projects repository! This repository contains all the Python projects I have built while learning Python.
 
-## Features
+## Projects
 
-- Add tasks
-- Track completed tasks
-- Track incomplete tasks
+| S.No | Project Name | Concepts Used |
+|------|--------------|---------------|
+| 1 | Daily Task Organizer | Lists, User Input |
+| 2 | Simple Calculator | Functions, Loops, Conditionals |
 
-## Screenshot
 
-![Task Organizer Output](images/output.png)
-
-## Technologies Used
-
+## Technologies
 - Python
+- Streamlit
+- Git & GitHub
 
-## Run the Project
-
-```bash
-python main.py
-```
+## Author
+Harshita Bamaniya
+BCA Student | Python Developer | Graphic Designer
 
 
 
