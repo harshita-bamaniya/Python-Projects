@@ -22,7 +22,7 @@ while True:
 
  choice = input("Enter your choice (+,-,*,/) : ")
 
- if choice not in ['+','_','*','/']:
+ if choice not in ['+','-','*','/']:
     print("Invalid Choice! Please try again")
     continue
 
