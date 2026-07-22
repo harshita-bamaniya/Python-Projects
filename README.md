@@ -51,16 +51,20 @@ A command-line calculator that performs basic arithmetic operations.
 
 ### 3. Modern Calculator (Python + Streamlit)
 
-A modern web-based calculator built using Python and Streamlit.
+- Live Demo: https://your-app-name.streamlit.app
+- Technologies:
+  - Python
+  - Streamlit
 
 #### Features
 - Addition
 - Subtraction
 - Multiplication
 - Division
-- Responsive User Interface
+- Modern UI
+- Calculation History
 - Error Handling
-
+- 
 #### Technologies Used
 - Python
 - Streamlit
