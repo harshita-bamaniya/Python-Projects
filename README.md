@@ -51,7 +51,7 @@ A command-line calculator that performs basic arithmetic operations.
 
 ### 3. Modern Calculator (Python + Streamlit)
 
-- Live Demo: https://your-app-name.streamlit.app
+- Live Demo: https://python-modern-calculator.streamlit.app/
 - Technologies:
   - Python
   - Streamlit
